@@ -1,13 +1,13 @@
 A web application for highlight a functional groups in a molecule.
 
 # How to use
-### Install de packages
+### Install de packages:
 ```
 pip install FGFinder rdkit streamlit streamlit_ketcher
 ```
 
 ### Start the Streamlit
-Open the directory where the file
+In the directory where the web application file is located, start Streamlit:
 ```
 streamlit run home.py
 ```
