@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/789085396.svg)](https://zenodo.org/doi/10.5281/zenodo.10999398)
+
 A web application for highlight a functional groups in a molecule.
 
 # How to use
