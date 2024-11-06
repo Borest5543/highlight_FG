@@ -11,7 +11,7 @@ pip install FGFinder rdkit streamlit streamlit_ketcher
 ### Start the Streamlit
 In the directory where the web application file is located, start Streamlit:
 ```
-streamlit run home.py
+streamlit run highlight_FG.py
 ```
 
 ![image](https://github.com/Borest5543/highlight_FG/assets/65141860/3f46e294-58e9-4cf7-8c12-df781219b6b9)
